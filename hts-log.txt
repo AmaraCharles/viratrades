@@ -1,0 +1,74 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Feb 2024 02:17:41 at https://viratrades.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+viratrades
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://greenpointholdings.org/ -O1 "C:\My Web Sites\OG" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mviratradesve information,viratrades
+viratrades
+	such as username/password authentication for websites mirrored in this projectviratradesviratrades
+viratradesviratrades
+	do not share these files/folders if you want theseviratradesmain privateviratrades
+viratradesviratrades
+viratradesviratrades
+viratrades
+02:18:13	Error: 	"Not Found" (404) at link https://viratrades.org/fonts/mulish-v3-latin-800.php (from htviratradesldings.org/)
+viratradesviratrades
+02:18:28	Warning: 	Retry after error -5 (error:0000viratrades):reason(1)) at link https://code.tidio.viratrades5bql9prnozmdz2s7xlcll.js (from https://greenpointholdings.org/)
+viratradesviratrades
+02:18:28	Warning: 	Retry after error -4 (No data (cviratrades at link https://greenpoinviratradesx.php (from https://greenpointholdings.org/)
+viratradesviratrades
+02:18:28	Warning: 	Retry after error -4 (No data (cviratrades at link https://greenpviratradesssets/images/1.png (from https://greenpointholdings.org/)
+viratradesviratrades
+02:18:32	Error: 	"Not Found" (404) at link https://viratrades.org/private-planning.pviratradesreenpointholdings.org/)
+viratradesviratrades
+02:18:34	Error: 	"Not Found" (404) at link https://viratrades.org/assets/about.mp4 (frviratradesintholdings.org/)
+viratradesviratrades
+02:18:50	Error: 	"Not Found" (404) at link https://viratrades.org/sendmail.html (from https://greenpointholdiviratradeses.min.js)
+viratradesviratrades
+02:18:54	Warning: 	Retry after error -5 (error:0000viratrades):reason(1)) at link httpviratrades443/c1xhvhd3jjw5bql9prnozmdz2s7xlcll.js (from https://greenpointholdings.org/)
+viratrades
+02:18:54	Error: 	"Not Found" (404) at link https://greenpointholdings.org/cfinancial-pviratradeshttps://greenpointholdings.org/plaviratrades
+viratradesviratrades
+02:18:56	Error: 	"Not Found" (404) at link https://greenpointholdings.org/license/fonts/mulish-v3-latin-800.php (from https://greenpointholdings.org/license/)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/license/planning.php (from https://greenpointholdings.org/license/)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/Version/ (from https://greenpointholdings.org/assets/js/greensock.js)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/5S/dC/ (from https://greenpointholdings.org/assets/js/layerslider.kreaturamedia.jquery.js)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/8s.pL (from https://greenpointholdings.org/assets/js/layerslider.kreaturamedia.jquery.js)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/qd/ (from https://greenpointholdings.org/assets/js/layerslider.kreaturamedia.jquery.js)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/7p://2T.3m.5x/2G/2T.js (from https://greenpointholdings.org/assets/js/layerslider.kreaturamedia.jquery.js)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/3Y/ (from https://greenpointholdings.org/assets/js/layerslider.kreaturamedia.jquery.js)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/f3:// (from https://greenpointholdings.org/assets/js/layerslider.kreaturamedia.jquery.js)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/7p:// (from https://greenpointholdings.org/assets/js/layerslider.kreaturamedia.jquery.js)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/2W/ (from https://greenpointholdings.org/assets/js/layerslider.kreaturamedia.jquery.js)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/s0 s1 bt s2 @ 7p://5S.gm.5x/ (from https://greenpointholdings.org/assets/js/layerslider.kreaturamedia.jquery.js)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/1O/5S.1O.js (from https://greenpointholdings.org/assets/js/layerslider.kreaturamedia.jquery.js)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/k8:// (from https://greenpointholdings.org/assets/js/layerslider.kreaturamedia.jquery.js)
+
+02:19:02	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/c1xhvhd3jjw5bql9prnozmdz2s7xlcll.js (from https://greenpointholdings.org/)
+
+02:19:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://greenpointholdings.org/img/crypto.jpg (from https://greenpointholdings.org/buy-crypto.php)
+
+02:19:02	Error: 	"Not Found" (404) at link https://greenpointholdings.org/license/sendmail.html (from https://greenpointholdings.org/license/js/utilities.min.js)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 30 seconds : 169 links scanned, 142 files written (15209568 bytes overall) [9880442 bytes received at 109782 bytes/sec], 8353368 bytes transferred using HTTP compression in 99 files, ratio 34%, 8.8 requests per connection
+
+(21 errors, 5 warnings, 0 messages)
+

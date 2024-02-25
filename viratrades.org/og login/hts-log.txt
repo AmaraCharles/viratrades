@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Feb 2024 02:26:02 at ./auth/user/login.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+viratrades
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ap.greenpointholdings.org/user/login -O1 "C:\My Web Sites\og login" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sviratradeson,viratrades
+viratradesviratrades
+	such as username/password authentication for websitesviratradesprojectviratrades
+viratradesviratrades
+	do not share these files/folders if you want these information to remain private
+
+
+
+02:26:26	Error: 	"Method Not Allowed" (405) at link https://ap.greenpointholdings.org/user/check-mail (from https://ap.greenpointholdings.org/user/register)
+
+02:26:26	Error: 	"Not Found" (404) at link https://ap.greenpointholdings.org/user/firebase-app.js (from https://ap.greenpointholdings.org/assets/global/js/firebase/firebase-messaging-sw.js)
+
+02:26:26	Error: 	"Not Found" (404) at link https://ap.greenpointholdings.org/user/firebase-messaging.js (from https://ap.greenpointholdings.org/assets/global/js/firebase/firebase-messaging-sw.js)
+
+02:26:26	Error: 	"Not Found" (404) at link https://ap.greenpointholdings.org/user/configs.js (from https://ap.greenpointholdings.org/assets/global/js/firebase/firebase-messaging-sw.js)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 33 links scanned, 28 files written (2119500 bytes overall) [793618 bytes received at 33067 bytes/sec], 2029356 bytes transferred using HTTP compression in 26 files, ratio 22%, 5.5 requests per connection
+
+(4 errors, 0 warnings, 0 messages)
+
