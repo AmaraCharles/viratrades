@@ -717,6 +717,9 @@
     <script src="../assets/templates/bit_gold/js/vendor/wow.min.js"></script>
     <!-- dashboard custom js -->
     <script src="../assets/templates/bit_gold/js/app.js"></script>
+    <link rel="stylesheet" href="../assets/global/css/iziToast.min.css">
+<script src="../assets/global/js/iziToast.min.js"></script>
+
     <script>
 
  
@@ -783,8 +786,8 @@
        function blurr (){
         var btn=document.getElementById('registerBtn');
            
-        //    btn.style.opacity="0.5"
-        //    btn.innerHTML= "Loading . . ."
+           btn.style.opacity="0.5"
+           btn.innerHTML= "Loading . . ."
           
        }
        
@@ -797,32 +800,8 @@
                        timeout: 30000,
                        success: function (data) {
                            console.log(data);
-                           $.notify({
-							// options
-							icon: 'flaticon-alarm-1',
-							title: 'Successful',
-							message: "Account creation Successful",
-						},{
-							// settings
-							type: 'success',
-							allow_dismiss: true,
-							newest_on_top: false,
-							placement: {
-								from: "top",
-								align: "right"
-							},
-							offset: 20,
-							spacing: 10,
-							z_index: 1031,
-							delay: 5000,
-							timer: 1000,
-							animate: {
-								enter: 'animated fadeInDown',
-								exit: 'animated fadeOutUp'
-							},
-		
-						});
-                           $('.live-section').html("Account was successfully created").addClass('alert-success')
+                           iziToast.success({message:"Account Creation Successful", position: "topRight"});
+                        //    $('.live-section').html("Account was successfully created").addClass('alert-success')
                            setTimeout(function () {
                                $(location).prop('href', './login.html')
                            }, 1000)
@@ -831,7 +810,8 @@
                        error: function (xhr, status, error) {
                            red();
                            console.log(error);
-                           $('.live-section').html("Email already taken.").addClass('alert-danger')
+                           iziToast.error({message:"Email already taken", position: "topRight"});
+                        //    $('.live-section').html("Email already taken.").addClass('alert-danger')
                        }
                    });
        
