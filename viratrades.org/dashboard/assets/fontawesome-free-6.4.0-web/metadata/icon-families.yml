@@ -38756,7 +38756,7 @@ seedling:
       - young
   unicode: f4d8
   voted: false
-sellcast:
+seLTDast:
   changes:
     - 5.0.0
   familyStylesByLicense:
@@ -38766,7 +38766,7 @@ sellcast:
     pro:
       - family: classic
         style: brands
-  label: Sellcast
+  label: SeLTDast
   search:
     terms:
       - eercast

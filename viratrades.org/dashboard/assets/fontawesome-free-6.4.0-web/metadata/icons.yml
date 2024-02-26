@@ -31325,10 +31325,10 @@ seedling:
     - solid
   unicode: f4d8
   voted: false
-sellcast:
+seLTDast:
   changes:
     - 5.0.0
-  label: Sellcast
+  label: SeLTDast
   search:
     terms:
       - eercast

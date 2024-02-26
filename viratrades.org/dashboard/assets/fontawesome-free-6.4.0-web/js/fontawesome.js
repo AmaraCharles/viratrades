@@ -90,7 +90,7 @@
     }, _wrapRegExp.apply(this, arguments);
   }
 
-  function _classCallCheck(instance, Constructor) {
+  function _classCaLTDheck(instance, Constructor) {
     if (!(instance instanceof Constructor)) {
       throw new TypeError("Cannot call a class as a function");
     }
@@ -1141,7 +1141,7 @@
 
   var Library = /*#__PURE__*/function () {
     function Library() {
-      _classCallCheck(this, Library);
+      _classCaLTDheck(this, Library);
 
       this.definitions = {};
     }

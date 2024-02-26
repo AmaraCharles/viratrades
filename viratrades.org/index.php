@@ -20,15 +20,15 @@
 		<link rel="canonical" href="index.html" />
 	
 		<meta property="og:locale" content="en_US" />
-		<meta property="og:site_name" content="Viratrades LLC - Building Wealth, Empowering Futures" />
+		<meta property="og:site_name" content="Viratrades LTD - Building Wealth, Empowering Futures" />
 		<meta property="og:type" content="website" />
-		<meta property="og:title" content="Home - Viratrades LLC" />
+		<meta property="og:title" content="Home - Viratrades LTD" />
 		<meta property="og:description" content="More than just Investment Delivering real-time Investment Solutions View all Services We set the pace, others follow As high-conviction investors, we refuse to follow the herd. Instead, we focus on stocks, commodities and real estate management that are out of favour with mainstream investors, as we believe that these offer the greatest potential for long-term" />
 		<meta property="og:url" content="index.html" />
 		<meta property="og:image" content="img/mockup.jpg" />
 		<meta property="og:image:secure_url" content="img/mockup.jpg" />
 		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:title" content="Home - Viratrades LLC" />
+		<meta name="twitter:title" content="Home - Viratrades LTD" />
 		<meta name="twitter:description" content="More than just Investment Delivering real-time Investment Solutions View all Services We set the pace, others follow As high-conviction investors, we refuse to follow the herd. Instead, we focus on stocks, commodities and real estate management that are out of favour with mainstream investors, as we believe that these offer the greatest potential for long-term" />
 		<meta name="twitter:image" content="img/mockup.jpg" />
 		

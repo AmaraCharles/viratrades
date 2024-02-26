@@ -8,9 +8,9 @@
     --warning: 29 100% 63%;
     --info: 200 90% 53%;
     --dark: 206 70% 11%;
-	--base-h: 40;
-    --base-s: 54%;
-    --base-l: 56%;
+	--base-h: 75.2;
+    --base-s: 100%;
+    --base-l: 37.3%;
     --base: var(--base-h) var(--base-s) var(--base-l);
 	--base-hover: var(--base-h) var(--base-s) calc(var(--base-l) - 10%);
 	--second_color: hsl(0,0%,0%);
@@ -1789,7 +1789,7 @@ a:hover {
 
 .cmn-btn2:hover {
 	color: var(--second_color);
-	background-color: #c69840;
+	background-color: #198754;
 }
 
 .border-btn {
