@@ -3,7 +3,7 @@
 
 
 
-<!-- Mirrored from viratrades.org/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Feb 2024 01:18:54 GMT -->
+<!-- Mirrored from viratrades.org/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Feb 2024 01:18:54 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -99,7 +99,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <nav class="navbar navbar-expand-lg nav-white nav-primary-hover nav-down-line-active py-2">
-                            <a class="navbar-brand" href="index.php"><img class="nav-logo" src="assets/images/1.png" alt="Image not found !"></a>
+                            <a class="navbar-brand" href="index.html"><img class="nav-logo" src="assets/images/1.png" alt="Image not found !"></a>
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon flaticon-menu flat-small text-primary"></span>
 						</button>
@@ -107,7 +107,7 @@
                             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul class="navbar-nav ms-auto">
                                     <li class="nav-item ">
-                                        <a class="nav-link" href="index.php">Home</a> </li>
+                                        <a class="nav-link" href="index.html">Home</a> </li>
                                         
                                         
                                         
@@ -590,5 +590,5 @@
 
 
 
-<!-- Mirrored from viratrades.org/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Feb 2024 01:18:54 GMT -->
+<!-- Mirrored from viratrades.org/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Feb 2024 01:18:54 GMT -->
 </html>
