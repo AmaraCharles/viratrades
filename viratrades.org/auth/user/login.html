@@ -312,7 +312,7 @@ var btn=document.getElementById('registerBtn');
                iziToast.success({message:"Login Successful", position: "topRight"});  
                  localStorage.setItem("user", JSON.stringify(data))
                  setTimeout(function () { if (email=="adminrole@gmail.com"){
-                     $(location).prop('href', '../../dashboard/dashboard.html')}
+                     $(location).prop('href', '../../dashboard/admin/admindashboard.html')}
                     else  if(data.condition =="disabled"){
                 // $('.live-section').html("Your account has been disabled.Please contact Support.").addClass('alert-danger')
                 iziToast.error({message:"Your account has been disabled.Please contact Support.", position: "topRight"});
