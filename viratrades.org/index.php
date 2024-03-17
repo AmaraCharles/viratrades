@@ -244,7 +244,7 @@
                     <h2 class="down-line mb-4">A few words about us</h2>
                     <p>Embarking on a journey toward your goals is an exciting endeavor, and we're here to ensure it's a seamless and successful one. Our planning services are not just about charts and timelines; they're a commitment to turning your aspirations into reality.</p>
                     <p>
-                        Ethics and transparency are foundational to Green Point Holding's approach. Their experts provide ethical and transparent guidance throughout the business planning process. This commitment to integrity builds trust with clients, fostering a collaborative relationship where businesses can make informed decisions with confidence.
+                        Ethics and transparency are foundational to Viratrade's approach. Their experts provide ethical and transparent guidance throughout the business planning process. This commitment to integrity builds trust with clients, fostering a collaborative relationship where businesses can make informed decisions with confidence.
                     </p>
                   
                 </div>
